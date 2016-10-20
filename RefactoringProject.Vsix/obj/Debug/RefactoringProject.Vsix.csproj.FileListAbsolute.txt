@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\obj\Debug\RefactoringProject.Vsix.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\Diagnostic.nuspec
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\tools\install.ps1
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\tools\uninstall.ps1
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\RefactoringProject.Vsix.vsix
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\extension.vsixmanifest
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\RefactoringProject.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\bin\Debug\RefactoringProject.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\obj\Debug\RefactoringProject.Vsix.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\obj\Debug\RefactoringProject.Vsix.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject.Vsix\obj\Debug\extension.vsixmanifest

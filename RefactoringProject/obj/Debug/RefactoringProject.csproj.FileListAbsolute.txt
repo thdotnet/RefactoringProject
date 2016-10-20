@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\bin\Debug\Diagnostic.nuspec
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\bin\Debug\tools\install.ps1
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\bin\Debug\tools\uninstall.ps1
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\bin\Debug\RefactoringProject.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\bin\Debug\RefactoringProject.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\RefactoringProject\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.pdb

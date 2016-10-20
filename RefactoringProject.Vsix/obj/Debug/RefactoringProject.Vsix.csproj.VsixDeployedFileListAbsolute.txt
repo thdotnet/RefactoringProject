@@ -1,0 +1,6 @@
+C:\Users\usuario\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\usuario\RefactoringProject\1.0\\RefactoringProject.dll
+C:\Users\usuario\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\usuario\RefactoringProject\1.0\\extension.vsixmanifest
+C:\Users\usuario\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\usuario\RefactoringProject\1.0\\Diagnostic.nuspec
+C:\Users\usuario\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\usuario\RefactoringProject\1.0\\tools\install.ps1
+C:\Users\usuario\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\usuario\RefactoringProject\1.0\\tools\uninstall.ps1
+C:\Users\usuario\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\usuario\RefactoringProject\1.0\\RefactoringProject.pdb
